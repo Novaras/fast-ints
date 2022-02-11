@@ -1,0 +1,10 @@
+Title: hw2 fast int mod
+
+Tags: HomeworldRM HWRM Homeworld Remastered
+GameType: HomeworldRM
+ModType: MOD
+BigFilename: FastInts.big
+WorkshopID: 2749396057
+
+Description:
+hello!
